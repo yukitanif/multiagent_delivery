@@ -110,4 +110,4 @@ class Maze:
 #maze=Maze(31,31,0.4)
 #maze.make_maze_arranged()
 #maze.task_generate()
-#maze.print_map()
+#maze.print_map_adjacent()
